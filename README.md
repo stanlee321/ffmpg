@@ -1,2 +1,2 @@
-# neuralflow
-Code for a power flow calculation with NN
+# Code for install ffmpg
+
